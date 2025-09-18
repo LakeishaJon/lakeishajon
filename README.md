@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Lakeisha Jones
 
 ## 🚀 About Me
-I'm a **Business Analyst turned Frontend Developer** passionate about creating user-friendly web applications that solve real business problems. With 7+ years of experience in business analysis and system integration, I bring a unique perspective to frontend development—understanding both the technical implementation and business value of every feature I build.
+I'm a **Business Analyst turned Full Stack Developer** passionate about creating user-friendly web applications that solve real business problems. With 7+ years of experience in business analysis and system integration, I bring a unique perspective to frontend development—understanding both the technical implementation and business value of every feature I build.
 
 🌟 **Currently**: Transitioning into frontend development with hands-on experience in React, JavaScript, HTML5, and CSS3  
 📍 **Location**: Texas  
