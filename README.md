@@ -84,7 +84,7 @@ A gamified fitness tracking application that makes exercise fun and engaging
 
 ---
 
-⭐️ **Fun Fact**: I love combining my analytical mind with creative problem-solving. When I'm not coding, you might find me creating pixel art or exploring the intersection of technology and fitness!
+⭐️ **Fun Fact**: I love combining my analytical mind with creative problem-solving. When I'm not coding, you might find me reading, listening to music, or rewatching The Big Bang Theory!
 
 💬 **Always happy to discuss**: React development, business analysis, agile methodologies, or how to transition from business roles into tech!
 
