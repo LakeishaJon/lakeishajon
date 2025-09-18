@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Business Analyst turned Full Stack Developer** passionate about creating user-friendly web applications that solve real business problems. With 7+ years of experience in business analysis and system integration, I bring a unique perspective to full-stack development, understanding both the technical implementation and business value of every feature I build.
 
-🌟 **Currently**: Transitioning into frontend development with hands-on experience in React, JavaScript, HTML5, and CSS3  
+🌟 **Currently**: Transitioning into full-stack development with hands-on experience in React, JavaScript, HTML5, CSS3, Python and Flask  
 📍 **Location**: Texas  
 💼 **Open to**: Frontend Developer and Full Stack Developer opportunities  
 
@@ -21,9 +21,11 @@ I'm a **Business Analyst turned Full Stack Developer** passionate about creating
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+[SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -37,10 +39,14 @@ I'm a **Business Analyst turned Full Stack Developer** passionate about creating
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
 ### Business & Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) 
+![D365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)  
 
 ## 🌟 Featured Projects
 
