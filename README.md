@@ -8,12 +8,12 @@ I'm a **Business Analyst turned Frontend Developer** passionate about creating u
 💼 Open to: Frontend Developer and Full Stack Developer opportunities
 🛠️ Tech Stack
 Frontend Technologies
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+[Show Image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[Show Image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[Show Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[Show Image](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[Show Image](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+[Show Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 Backend Technologies
 Show Image
 Show Image
@@ -56,9 +56,6 @@ Interactive data visualization projects from my business analysis background
 Tech Stack: SharePoint, Azure, SQL
 Focus: Process improvement, workflow automation, data-driven insights
 
-📈 GitHub Stats
-Show Image
-Show Image
 💡 What Makes Me Unique
 🔄 Business + Technical Perspective: My background in business analysis gives me a deep understanding of user requirements and business value, making me a developer who doesn't just write code, but solves real problems.
 📋 Agile & Project Management: Certified Scrum Master with extensive experience in user story creation, sprint planning, and cross-functional team collaboration.
@@ -74,7 +71,7 @@ Show Image
 
 📫 Let's Connect!
 [Show Image](https://linkedin.com/in/lakeisha-l-jones)
-Show Image
+mailto:lakeishajones780@gmail.com
 
 
 ⭐️ Fun Fact: I love combining my analytical mind with creative problem-solving. When I'm not coding, you might find me creating pixel art or exploring the intersection of technology and fitness!
